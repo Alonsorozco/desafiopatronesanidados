@@ -1,4 +1,3 @@
-
 n = ARGV[0].to_i
 # # Letra navidad
 def body (n)
@@ -38,5 +37,3 @@ body(n)
 cover(n)
 cover(n)
 coverfinal(n)
-
-
